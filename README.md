@@ -26,6 +26,7 @@ While I am a long time fan of all tech things, I'm a much less competent develop
 |------|------|------------|
 | Fuzzy Search Logic | [fuzzy-search-logic.md](ideas/fuzzy-search-logic.md) | [![Branch: Fuzzy Search Logic](https://img.shields.io/badge/Branch-fuzzy--search--logic-blue)](https://github.com/danielrosehill/homebox/tree/fuzzy-search-logic) |
 | Llm Integration | [llm-integration.md](ideas/llm-integration.md) |  |
+| Write To Nfc | [write-to-nfc.md](ideas/write-to-nfc.md) |  |
 
 ## My Fork And Branches
 
