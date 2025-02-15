@@ -1,5 +1,10 @@
 # Fuzzy Search Logic
 
+## Branch
+
+[![Branch: Fuzzy Search Logic](https://img.shields.io/badge/Branch-fuzzy--search--logic-blue)](https://github.com/danielrosehill/homebox/tree/fuzzy-search-logic)
+
+
 ## The Problem
 
 Whatever Homebox is using under the hood for search, it leaves a little bit to be desired. I frequently had trouble finding things in the inventory because I didn't match the item name exactly enough (capitalisation or hyphen differences).

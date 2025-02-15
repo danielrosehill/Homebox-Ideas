@@ -20,6 +20,13 @@ Thanks to Homebox I buy less, can find whatever I need quickly and easily, and h
 
 While I am a long time fan of all tech things, I'm a much less competent developer. However, I love working with AI copilots in order to make the process of working with code less daunting. As Homebox is an open source project I would love to contribute code to, this tracking repository is a place I created to map out ideas with a few to having them documented and ready to action when my skills have matured enough to be able to do so. 
 
+## Ideas Index
+
+| Idea | Link | Dev Branch |
+|------|------|------------|
+| Fuzzy Search Logic | [fuzzy-search-logic.md](ideas/fuzzy-search-logic.md) | [![Branch: Fuzzy Search Logic](https://img.shields.io/badge/Branch-fuzzy--search--logic-blue)](https://github.com/danielrosehill/homebox/tree/fuzzy-search-logic) |
+| Llm Integration | [llm-integration.md](ideas/llm-integration.md) |  |
+
 ## My Fork And Branches
 
 My fork of the project and branches I will be working on:
@@ -63,3 +70,5 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 - **No additional restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 For the full legal code, please visit the [Creative Commons website](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+ 
