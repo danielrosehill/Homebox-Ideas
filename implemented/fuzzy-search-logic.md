@@ -16,6 +16,8 @@ Given that, being able to retrieve things quickly is the main purpose of Homebox
 Firstly, develop an understanding for what the project is currently using for for search. 
 
 Next, see how and whether fuzzier logic could be employed in the code base. 
-#
-Finally, try to implement it. 
+ 
+ ## Implementation
+
+[Pull request](https://github.com/sysadminsmedia/homebox/pull/538)
 
